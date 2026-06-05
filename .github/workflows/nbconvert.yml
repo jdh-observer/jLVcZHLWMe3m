@@ -1,4 +1,10 @@
-on: [workflow_dispatch]
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "*.ipynb"
+      - "requirements.txt"
+      - "runtime.txt"
 
 name: GitHub Actions for nbconvert
 jobs:
@@ -40,7 +46,8 @@ jobs:
           python-version: ${{ steps.get_python_version.outputs.python_version }}
       - name: installing nbconvert & other required libraries
         run: |
-          pip install -r requirements.txt
+          python -m pip install --upgrade pip
+          python -m pip install --extra-index-url https://download.pytorch.org/whl/cpu -r requirements.txt
           python -m pip install jupyter nbconvert nbformat notebook 
       - name: running nbconvert
         run: |
