@@ -1,10 +1,5 @@
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - "*.ipynb"
-      - "requirements.txt"
-      - "runtime.txt"
 
 name: GitHub Actions for nbconvert
 jobs:
