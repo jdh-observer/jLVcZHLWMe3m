@@ -631,13 +631,9 @@ In essence, our computational analysis validates the perception long held by sch
 ##### Semantic-Structural Discrepencies - Gaps in Our Collation
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["table-gapFreqTable-*"]
+```python editable=true slideshow={"slide_type": ""} tags=["table-gapFreqTable-*", "figure-gapFreqPlot-*"]
 gap_freq_df = plot_gap_freq_significance_scatter(ar_results, label_all=False, label_top=False).sort_values(by=["gap_freq"], ascending=False)
 gap_freq_df.head(10)
-```
-
-```python tags=["figure-gapFreqPlot-*"]
-
 ```
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
