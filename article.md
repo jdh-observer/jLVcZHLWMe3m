@@ -650,7 +650,7 @@ Now, let us swap our lens and look at these collations from within. We measure t
 For instance, when there is full textual agreement between the entries, both scores rank their similarity at 100, such as the nine columns clustered in the top right of the graph. However, in cases such as columns 8 and 9, where a mix of texts are collated, the Jaro-Winkler score is as much as 22 percentage points more confident than our LLM. For cases where we want to be sceptical of our texts, there is strong preference in using an LLM to measure textual similarity. Furthermore, we have limited our LLM by excluding context and comparing individual words and phrases. Including more nuanced text selections will further sperate gap between STS and Jaro-Winkler. Through this comparision, there is a strong argument to create our collation itself through STS so that we are able to group like phrases, and we never lose the ability to measure textual difference through letter based approaches as well.
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["figure-jaroWinkPlot-*"]
+```python editable=true slideshow={"slide_type": ""} tags=["figure-jaroWinkPlot-*", "table-jaroWinkPlot-*"]
 jaro_winkler_df = plot_jaro_winkler_significance_scatter(ar_results, label_all=False, label_top=False).sort_values(by=["struct_score"], ascending=True)
 jaro_winkler_df.head(10)
 ```
@@ -691,7 +691,7 @@ If we recall <table-isnadtree-*></table-isnadtree-*>, we can see that our semant
 Furthermore, if we compare with the clusters as identified with isnād-cum-matn analysis, we see our most confident pairs (V5 and V6, V10 and V11, V14 and V15) are all grouped by cluster. In this manner, we were able to approximate chains of transmission solely via textual comparison. However, our most interesting data are the variants that became associated across clusters: 
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["table-isnadtreeAbbr-*"]
+```python editable=true slideshow={"slide_type": ""} tags=["figure-isnadtreeAbbr-*"]
 from IPython.display import Image, display
 metadata={
     "jdh": {
