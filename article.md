@@ -296,7 +296,7 @@ model = SentenceTransformer('intfloat/multilingual-e5-large')
 First it is worth recalling that CollateX aligns witnesses by characters. As such, it has no difficulty aligning texts of any language.
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["table-exCollation-*"]
+```python jdh={"module": "object", "object": {"source": ["Structural Agreement Matrix (Token Identity from Collation)"]}} editable=true slideshow={"slide_type": ""} tags=["table-exCollation-*"]
 collation = Collation()
 collation.add_plain_witness("A", "The quick brown fox jumps over the dog")
 collation.add_plain_witness("B", "The brown fox jumps over the lazy dog")
