@@ -587,7 +587,7 @@ meso_df.head(10)
 Lastly, macro-semantic similarity refers to the cosine similarity of the full texts themselves. We concatenated all the texts to recreate the variants prior to collation and then computed the full semantic textual similarities. We have found these scores to be most reliable 
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["hermeneutics", "table-macroSim-*"]
+```python editable=true jdh={"module": "object", "object": {"source": ["Macro-Semantic Similarity"]}} slideshow={"slide_type": ""} tags=["hermeneutics", "table-macroSim-*"]
 from script.supporting_code import macro_semantic_similarity
 macro_df = macro_semantic_similarity(collation_df, model)
 
@@ -631,14 +631,13 @@ In essence, our computational analysis validates the perception long held by sch
 ##### Semantic-Structural Discrepencies - Gaps in Our Collation
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["table-gapFreqTable-*", "figure-gapFreqPlot-*"]
+```python editable=true slideshow={"slide_type": ""} tags=["table-gapFreqTable-*"]
 gap_freq_df = plot_gap_freq_significance_scatter(ar_results, label_all=False, label_top=False).sort_values(by=["gap_freq"], ascending=False)
 gap_freq_df.head(10)
 ```
 
-```python editable=true slideshow={"slide_type": ""} tags=["table-gapFreqTable-*"]
-gap_freq_df = plot_gap_freq_significance_scatter(ar_results, label_all=False, label_top=False).sort_values(by=["gap_freq"], ascending=False)
-gap_freq_df.head(10)
+```python tags=["figure-gapFreqPlot-*"]
+
 ```
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
