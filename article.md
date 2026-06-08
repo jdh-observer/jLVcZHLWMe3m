@@ -668,11 +668,8 @@ plot_structural_similarity_heatmap(ar_results)
  For a better comparison, we can translate these heatmaps to a dendrogram below:
 <!-- #endregion -->
 
-```python tags=["figure-dendrogram1-*"]
+```python jdh={"module": "object", "object": {"source": ["Witness Clustering based on Macro-Semantic Similarity Lower branches= closer semnatically/ Witness Clustering by Structural Alignement Lower branches = closer collation"], "type": "image"}} editable=true slideshow={"slide_type": ""} tags=["figure-dendrograms-*"]
 _ = plot_semantic_clustering_dendrogram(ar_results, threshold=0.5)
-```
-
-```python editable=true slideshow={"slide_type": ""} tags=["figure-dendrogram2-*"]
 _ = plot_structural_dendrogram(ar_results, collation_df, threshold=0.5)
 ```
 
