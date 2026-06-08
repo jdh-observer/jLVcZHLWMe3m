@@ -296,7 +296,7 @@ model = SentenceTransformer('intfloat/multilingual-e5-large')
 First it is worth recalling that CollateX aligns witnesses by characters. As such, it has no difficulty aligning texts of any language.
 <!-- #endregion -->
 
-```python jdh={"module": "object", "object": {"source": ["Structural Agreement Matrix (Token Identity from Collation)"]}} editable=true slideshow={"slide_type": ""} tags=["table-exCollation-*"]
+```python editable=true jdh={"module": "object", "object": {"source": ["NO TITLE"]}} slideshow={"slide_type": ""} tags=["table-exCollation-*"]
 collation = Collation()
 collation.add_plain_witness("A", "The quick brown fox jumps over the dog")
 collation.add_plain_witness("B", "The brown fox jumps over the lazy dog")
@@ -315,7 +315,7 @@ print("Arabic Table\n", ar_alignment_table)
 Our close, distant, and adversarial transmissions are created as follows: witnesses A, B, C, and D are the core set of texts; witnesses E, F, and G are meant to confuse CollateX and dilute our collation; witnesses H and I are semantically similar texts that character based collation typically struggles with.
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["hermeneutics", "table-engCollation-*"]
+```python editable=true jdh={"module": "object", "object": {"source": ["English Example"]}} slideshow={"slide_type": ""} tags=["hermeneutics", "table-engCollation-*"]
 #@title English Example
 #Close Transmission
 en_collation = Collation()
@@ -506,7 +506,7 @@ After cleaning the text, we pattern-matched and removed all honorifics, such as 
 #### Traditional Collation Baseline
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["table-inputdf-*"]
+```python editable=true jdh={"module": "object", "object": {"source": ["Original Hadiths as a Dataframe"]}} slideshow={"slide_type": ""} tags=["table-inputdf-*"]
 #@title original hadiths as a dataframe
 #this can be freely edited or replaced with any csv file
 
@@ -536,7 +536,7 @@ variant,full hadith
 input_df.head()
 ```
 
-```python editable=true slideshow={"slide_type": ""} tags=["hermeneutics", "table-collationdf-*"]
+```python editable=true jdh={"module": "object", "object": {"source": ["Collation DataFrame"]}} slideshow={"slide_type": ""} tags=["hermeneutics", "table-collationdf-*"]
 #convert texts to collation
 collation_df = input_df_to_collation_df(input_df)
 collation_df.head()
@@ -561,7 +561,7 @@ To better understand our scoring, here are 10 entries from each level of analysi
 Micro-semantic similarity refers to our word-level analysis. We calculated the internal score of each “token” column in Figure 9.1 by comparing each word, or aligned group of words, with one another. This metric is how we assess the coherence of the collation itself through average, minimum, and maximum similarity scores.
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["hermeneutics", "table-microSim-*"]
+```python editable=true jdh={"module": "object", "object": {"source": ["Micro-Semantic Similarity"]}} slideshow={"slide_type": ""} tags=["hermeneutics", "table-microSim-*"]
 from script.supporting_code import micro_semantic_similarity
 micro_df, _ = micro_semantic_similarity(collation_df, model, return_pairwise=True)
 
@@ -574,7 +574,7 @@ micro_df.head(10)
 Meso-semantic scores capture phrase-level relationships. This metric aimed to determine whether adjacent collated words formed coherent phrases across variants. We defined a three-word sliding window for each phrase, aligning two texts side by side. For every phrase in Variant A, all possible corresponding phrases in Variant B were compared, skipping gaps, and their cosine similarities were calculated. The highest-scoring phrase pair was then selected and linked. This procedure was repeated for all variant pairs. The expectation was that this approach would identify instances of rephrasing while, by design, yielding slightly optimistic similarity estimates. The chosen window size was determined through iterative testing.
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["hermeneutics", "table-mesoSim-*"]
+```python editable=true jdh={"module": "object", "object": {"source": ["Meso-Semantic Similarity"]}} slideshow={"slide_type": ""} tags=["hermeneutics", "table-mesoSim-*"]
 from script.supporting_code import meso_semantic_similarity
 meso_df, _ = meso_semantic_similarity(collation_df, model)
 
@@ -636,6 +636,11 @@ gap_freq_df = plot_gap_freq_significance_scatter(ar_results, label_all=False, la
 gap_freq_df.head(10)
 ```
 
+```python editable=true slideshow={"slide_type": ""} tags=["table-gapFreqTable-*"]
+gap_freq_df = plot_gap_freq_significance_scatter(ar_results, label_all=False, label_top=False).sort_values(by=["gap_freq"], ascending=False)
+gap_freq_df.head(10)
+```
+
 <!-- #region editable=true slideshow={"slide_type": ""} -->
 From this gap frequency alignment, we can see that most columns, as attested in <figure-inputdf-*></figure-inputdf-*>, have many gaps in them. Nonetheless, those words that do get aligned tend to be the same mostly. This is what we expect from a character alignment program. Some columns, such as column index 37, have correctly aligned the relative pronoun “ما” between almost every variant. However, as a whole, collation alone is not sufficient for recovering meaning just by character-level alignment. Moreover, the extremely low R^2 value of 0.0008 indicates that there is virtually no linear relationship between structural consistency and semantic similarity across variant columns. In practical terms, this means that regardless of whether columns are more or less consistently filled, they do not tend to contain semantically similar tokens. Whether a column appears frequently across witnesses (low gap frequency) or rarely (high gap frequency) offers almost no predictive power about the degree to which its tokens share meaning within collated groups. This finding suggests that the structural alignment produced by CollateX, while useful for positional comparison, does not inherently reflect semantic coherence; therefore, it emphasises the necessity of semantic verification in the analysis of fluid, orally transmitted Hadith data.
 <!-- #endregion -->
@@ -668,8 +673,11 @@ plot_structural_similarity_heatmap(ar_results)
  For a better comparison, we can translate these heatmaps to a dendrogram below:
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["figure-dendrograms-*"]
+```python tags=["figure-dendrogram1-*"]
 _ = plot_semantic_clustering_dendrogram(ar_results, threshold=0.5)
+```
+
+```python editable=true slideshow={"slide_type": ""} tags=["figure-dendrogram2-*"]
 _ = plot_structural_dendrogram(ar_results, collation_df, threshold=0.5)
 ```
 
