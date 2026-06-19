@@ -614,7 +614,7 @@ _Where “s” is the raw cosine similarity and “s norm” is the normalised s
 ##### Overall Semantic-Structural Landscape
 <!-- #endregion -->
 
-```python jdh={"module": "object", "object": {"source": ["Similarity Comparison Across Analysis Levels shows how granularity affects textual relationships"], "type": "image"}} editable=true slideshow={"slide_type": ""} tags=["figure-simHistogram-*"]
+```python editable=true jdh={"module": "object", "object": {"source": ["Similarity Comparison Across Analysis Levels shows how granularity affects textual relationships"], "type": "image"}} slideshow={"slide_type": ""} tags=["figure-simHistogram-*"]
 _ = plot_similarity_levels_comparison(ar_results)
 ```
 
@@ -655,11 +655,11 @@ jaro_winkler_df.head(10)
 ###### Semantic-Structural Discrepencies - Our Texts from a Birds Eye View
 <!-- #endregion -->
 
-```python jdh={"module": "object", "object": {"source": ["Semantic Similarity Matrix (Full Text STS from LLM)"], "type": "image"}} editable=true slideshow={"slide_type": ""} tags=["figure-arSTSMatrix-*"]
+```python editable=true jdh={"module": "object", "object": {"source": ["Semantic Similarity Matrix (Full Text STS from LLM)"], "type": "image"}} slideshow={"slide_type": ""} tags=["figure-arSTSMatrix-*"]
 _ = plot_witness_similarity_matrix(ar_results)
 ```
 
-```python jdh={"module": "object", "object": {"source": ["Structural Agreement Matrix (Token Identity from Collation)"], "type": "image"}} editable=true slideshow={"slide_type": ""} tags=["figure-arStructMatrix-*"]
+```python editable=true jdh={"module": "object", "object": {"source": ["Structural Agreement Matrix (Token Identity from Collation)"], "type": "image"}} slideshow={"slide_type": ""} tags=["figure-arStructMatrix-*"]
 #Table 9.4
 plot_structural_similarity_heatmap(ar_results)
 ```
