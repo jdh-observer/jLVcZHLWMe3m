@@ -74,8 +74,8 @@ The article is structured in two parts. Section 1 opens with a brief account of 
 <!-- #endregion -->
 
 <!-- #region citation-manager={"citations": {"9pcbf": [{"id": "167992/DLCIQE2K", "source": "zotero"}], "p2d7b": [{"id": "167992/2QDX8ENH", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
-# MANUAL STUDY OF THE HADITHS THROUGH ISNĀD-CUM-MATN ANALYSIS ##
-## Scholarly Context
+## MANUAL STUDY OF THE HADITHS THROUGH ISNĀD-CUM-MATN ANALYSIS ##
+### Scholarly Context
 The ḥaram status of Mecca provides the precedent against which Medina's sanctification must be understood. When the relevant Quranic verses are analysed — namely Q. 2:125–129 — it is evident that the entire practice of the pilgrimage ritual is grounded in the Abrahamic experience, formalising Abraham's dedication and replicating his perceived state of perfection. This wider Abrahamic heritage also reflects a well-known pattern in the ancient Near East, wherein locations where a deity manifested were sanctified by that presence, and the altars Abraham built in the locations mentioned in biblical sources were accordingly regarded as sacred. <cite id="9pcbf"><a href="#zotero%7C167992%2FDLCIQE2K">(Pagolu, 1998)</a></cite> Far from being an innovation, Muhammad's reported sanctification of Medina would have been legible within this inherited context, not a significant departure from what his contemporaries already believed about Abraham and the consecration of Mecca.
 
 It is within this context that a distinct group of Hadiths reports that Muhammad explicitly consecrated Medina in emulation of Abraham's consecration of Mecca. A representative example is recorded in Mālik b. Anas's Muwaṭṭaʾ:
@@ -84,7 +84,7 @@ It is within this context that a distinct group of Hadiths reports that Muhammad
 
 The presence of this Hadith and its variants suggests that, analogous to Abraham's sanctification of Mecca as stated in Q. 2:124–128, the Prophet conferred a corresponding status upon Medina. To assess this claim historically, the narratives must be traced back through their chains of transmission, and if an original Hadith underlies these variants, it must be reconstructed. That is the task of the philological analysis that follows.
 
-## The Hadith Variants and Method:
+### The Hadith Variants and Method:
 The Hadith and its variants, under study, all include the element of comparison between Abraham’s sanctification of Mecca and Muhammad’s sanctification of Medina. The study involves initially clustering the relevant Hadith and examining the chains of transmission (isnāds), followed by an analysis of the texts (matns) to establish the history of the transmission process and, if possible, corroborate textual affinity. There are fifteen variants of this Hadith, eleven of which were recorded in Sunni sources such as Muslim’s (d. 261/875) Ṣaḥīḥ, ʿAbd al-Razzāq’s (d. 211/826) Muṣannaf, Ibn Abī Shayba’s (d. 235/849) Muṣannaf, Mālik’s (d. 179/795) Muwaṭṭaʾ, Tirmidhī’s (d. 279/892) Sunan, and Ibn Mājah’s (d. 209/824) Sunan. Furthermore, five of them are in Shiʿi sources, which are al-Kulaynī’s (d. 329/941) al-Kāfī, al-Ṭūsī’s (d. 460/1067) Tahdhīb al-Aḥkām and al-Amālī. Below are the chain-of-transmission diagram and the corresponding textual variants, titled in Tables 1 and 2.
 <!-- #endregion -->
 
@@ -129,8 +129,8 @@ Finally, in terms of the chain of transmission, one must state that G. H. A. Juy
 <!-- #endregion -->
 
 <!-- #region citation-manager={"citations": {"0eba8": [{"id": "167992/6WD4V9CN", "source": "zotero"}], "0ur7f": [{"id": "167992/8HXPRMZX", "source": "zotero"}], "2h7oh": [{"id": "167992/SJB8HG5R", "source": "zotero"}], "6nign": [{"id": "167992/Y58CKY2X", "source": "zotero"}], "aelpp": [{"id": "167992/S4PK974Q", "source": "zotero"}], "cfocg": [{"id": "167992/6WD4V9CN", "source": "zotero"}], "drpcn": [{"id": "167992/P3MZ8VM9", "source": "zotero"}], "f9wqh": [{"id": "167992/6NDAKMYI", "source": "zotero"}], "gn2d8": [{"id": "167992/NSGSXDPG", "source": "zotero"}], "l8xw6": [{"id": "167992/8UA474YW", "source": "zotero"}], "lrlfq": [{"id": "167992/RFDAPQNS", "source": "zotero"}], "nhctk": [{"id": "167992/6NDAKMYI", "source": "zotero"}], "rsul9": [{"id": "167992/WDVWH94N", "source": "zotero"}], "s0y9m": [{"id": "167992/RFDAPQNS", "source": "zotero"}], "yl3ng": [{"id": "167992/K6XYNART", "source": "zotero"}], "z2wlu": [{"id": "167992/8UA474YW", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
-## The ʿAlī b. Abī Ṭālib Cluster
-### Isnād analysis:
+### The ʿAlī b. Abī Ṭālib Cluster
+#### Isnād analysis:
 There are six variants potentially transmitted through ʿAlī, one in Tirmidhī’s Sunan and the remaining five in Shiʿi sources, such as al-Kulaynī’s al-Kāfī, al-Ṭūsī’s Tahdhīb al-aḥkām, and al-Amālī. However, as noted earlier, two of the Shiʿi variants do not mention ʿAlī’s name, while others identify him as the transmitter of the episode from the Prophet. While there may be potential explanations for this, it is important to note that there is a Sunni chain that can be independently verified, providing additional support for the assessment of the variants. However, at the same time, the presence of the Sunni chain of transmission attributed to ʿAlī introduces the possibility that the Shiʿi chains might have been forged. It is probable that these chains were sourced from Sunni books, the non-Shiʿi transmitters omitted, and then attributed to al-Jaʿfar from whom to ʿAlī and/or the Prophet. Furthermore, the inclusion of Sayf b. ʿAmīra in one of the transmission lines makes this possibility palpable, given his family’s reputation for plagiarising Sunni traditions and incorporating them into Shiʿi collections by way of forging the Shiʿi chain of transmissions.<cite id="l8xw6"><a href="#zotero%7C167992%2F8UA474YW">(Kuzudişli, 2015)</a></cite>  Be that as it may, aside from Sayf b. ʿAmīra, the tradition is transmitted through two other Shiʿi transmitters. Therefore, there seems to be sufficient material to assess whether the Shiʿi transmitters adopted a potentially plagiarised version of this report. Due to the length of the study, we will be as brief as possible with the isnād analysis and only examine the significant issues.
 
 The Variant 1 (V1) in this cluster is recorded in Tirmidhī’s Sunan or Jāmiʿ.<cite id="yl3ng"><a href="#zotero%7C167992%2FK6XYNART">(al-Tirmidhī, No date)</a></cite>  This chain reaches ʿAlī and ʿAlī from the Prophet without problem. Variant 2  (V2)<cite id="cfocg"><a href="#zotero%7C167992%2F6WD4V9CN">(al-Kulaynī, 1986)</a></cite> was recorded in Muḥammad b. Yaʿqūb al-Kulaynī’s (d. 329/941, Qom) al-Kāfī <cite id="0ur7f"><a href="#zotero%7C167992%2F8HXPRMZX">(Andrew J. Newman, 2000)</a></cite> and can be traced back to six Imām Jaʿfar al-Ṣādiq, whose teknonymy is Abū ʿAbdillāh. He resided mainly in Medina and travelled to Kufa <cite id="s0y9m"><a href="#zotero%7C167992%2FRFDAPQNS">(Modarressi, 2022)</a></cite>.  His father Muḥammad al-Bāqir (d. 114/733, Medina) was the fifth Imām. Al-Bāqir met some of the Companions of the Prophet, such as Jābir b. ʿAbdillāh and ʿAbdullāh b. ʿUmar.<cite id="lrlfq"><a href="#zotero%7C167992%2FRFDAPQNS">(Modarressi, 2022)</a></cite>  
@@ -148,7 +148,7 @@ Variant 6 (V6) was again recorded in al-Shaykh al-Ṭūsī’s Tahdhīb al-aḥk
 <!-- #endregion -->
 
 <!-- #region citation-manager={"citations": {"141n5": [{"id": "167992/VETMPFAK", "source": "zotero"}], "c6mjn": [{"id": "167992/VETIM69M", "source": "zotero"}], "fifbc": [{"id": "167992/VJ6FEHFL", "source": "zotero"}], "ni9gh": [{"id": "167992/SMDM2A7L", "source": "zotero"}], "nn489": [{"id": "167992/RM5T3QX9", "source": "zotero"}], "qa3wl": [{"id": "167992/6WD4V9CN", "source": "zotero"}], "v37w1": [{"id": "167992/XVZVIRFZ", "source": "zotero"}], "xgjay": [{"id": "167992/K6XYNART", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
-### Textual analysis 
+#### Textual analysis 
 According to V1 ʿAlī and a group of Muslims, accompanied by the Prophet, arrived in the area called al-Suqyā whihc is an area situated in Medina, housing both a well and a mosque. Saʿd b. Abī Waqqāṣ, who was a prominent companion of the Prophet, was also present in the group. The well and its surroundings were owned by Saʿd b. Abī Waqqāṣ,  so it is possible that he was accompanying the Prophet <cite id="fifbc"><a href="#zotero%7C167992%2FVJ6FEHFL">(al-Baṣrī, 1979)</a></cite>. ʿAlī narrated that the Prophet requested water for ablution: “We went out with the Messenger of God, until we reached al-Suqyā of al-Ḥarra. There was Saʿd b. Abī Waqqāṣ and the Messenger of God said: ‘Bring me ablution (wuḍuʾ) [water]; he performed ablution.’” Upon performing ablution, he stood facing the qibla (direction of prayer) and uttered: 
 
 > O God! Abraham was your servant and friend; he invoked blessings for the people of Mecca. I am your servant and your messenger, and I invoke blessings for the people of Medina. Bless their measures and their weights (mudd and sāʿ) as you blessed the people of Mecca and bestow upon them two-fold blessings <cite id="xgjay"><a href="#zotero%7C167992%2FK6XYNART">(al-Tirmidhī, No date)</a></cite> (Hadith no: 3914).
@@ -199,8 +199,8 @@ The slight incongruities in the texts of these separate chains concur with the e
 <!-- #endregion -->
 
 <!-- #region citation-manager={"citations": {"r08by": [{"id": "167992/7859R5XF", "source": "zotero"}], "zxnqx": [{"id": "167992/3TT8KK3D", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
-## The Abū Hurayra Cluster
-### Isnād analysis:
+### The Abū Hurayra Cluster
+#### Isnād analysis:
 Two variants were distributed through Abū Hurayra. One is documented in ʿAbd al-Razzāq’s Muṣannaf <cite id="zxnqx"><a href="#zotero%7C167992%2F3TT8KK3D">(al-Ṣanaʿānī, 1983)</a></cite> (Hadith no: 17149), and the other appears in Ibn Mājah’s Sunan <cite id="r08by"><a href="#zotero%7C167992%2F7859R5XF">(Ibn Māja, 1954)</a></cite> (Hadith no: 3113). These two variants were passed down through two separate chains of narration and recorded in different works. However, one of the chains reconnects with a chain from the ʿAlī b. Abī Ṭālib’s cluster at Saʿīd b. Abī Saʿīd al-Maqburī. Therefore, it is possible to detect similarities between these two variants in case the transmitter tampered with the texts. 
 
 Variant 7 (V7) was recorded in ʿAbd al-Razzāq’s (d. 211/826) Muṣannaf, who heard the report from various transmitters up to Abū Hurayra (d. 59/681, Medina), who had heard it directly from the Prophet. Variant 8 (V8) was documented in Ibn Mājah’s (d. 273/887) Sunan  , who heard it from Abū Hurayra with a complete chain of transmission. 
@@ -208,7 +208,7 @@ Variant 7 (V7) was recorded in ʿAbd al-Razzāq’s (d. 211/826) Muṣannaf, who
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
-### Textual analysis:
+#### Textual analysis:
 V7 and V8 display a high degree of similarity, except for one element in the text of V7, which seemingly provides a context to the narrative: “The Prophet went out until he reached al-Suqyā of al-Ḥarra and said”. This element is not mentioned in V8, but interestingly, it is mentioned in V1. However, unlike V1, V7 does not include the elements of ablution and the existence of Saʿd b. Abī Waqqāṣ in the episode. It is conceivable that Saʿīd al-Maqburī introduced this only element into the texts. This is because both texts converge on him (see Table 1), and these elements are mentioned only in these two texts, which raises the possibility of textual contamination through Saʿīd al-Maqburī, who might have sought to provide context. At any rate, at this point, these elements can only be dated back to Saʿīd al-Maqburī’s date of death, 125/742-743. 
 
 Moreover, there are also notable differences, notwithstanding the textual resemblance between the two variants examined in this cluster. In V7, the comparison element was stated as “O God, indeed Abraham, is your slave and messenger, he sanctified Mecca…as Abraham sanctified Mecca”, while in V8, it was stated as “O God! Abraham was your Prophet and friend. You sanctified Mecca with the words of Abraham.” In the comparison narrative, Abraham was referred to as “slave and messenger” in V7 and as “Prophet (nabī) and friend” in V8. This usage is again similar to the variant one, as it referred to Abraham as a “slave and friend”. Initially, it seems, using this terminology is another sign of textual corruption or contamination, possibly again introduced by Saʿīd al-Maqburī. However, a separate chain of transmission (V8) documented in Ibn Mājah’s Sunan weakens this possibility. On the other hand, the use of “slave and messenger” in both variants transmitted through Saʿīd al-Maqburī might potentially reinforce our suggestion of textual contamination by Saʿīd al-Maqburī. 
@@ -219,8 +219,8 @@ Be that as it may, the elements of Abraham’s consecration of Mecca and the Pro
 <!-- #endregion -->
 
 <!-- #region citation-manager={"citations": {"2alu7": [{"id": "167992/DUKWBJJM", "source": "zotero"}], "qifg2": [{"id": "167992/K6XYNART", "source": "zotero"}], "w8aw9": [{"id": "167992/2QDX8ENH", "source": "zotero"}], "zcd86": [{"id": "167992/XVZVIRFZ", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
-## The ʿAmr b. Abī ʿAmr Cluster
-### Isnād analysis:
+### The ʿAmr b. Abī ʿAmr Cluster
+#### Isnād analysis:
 Variant 9 (V9) was documented in Muslim’s Ṣaḥīḥ,<cite id="2alu7"><a href="#zotero%7C167992%2FDUKWBJJM">(Muslim b. al-Ḥajjāj al-Qushayrī, 1991)</a></cite> from whom several transmitters reported it from Anas b. Mālik (d. 93/712, Medina and Basra), who was a Companion of the Prophet . There seems to be no apparent problem in this chain of transmission.
 
 Variant 10 (V10) is found in Mālik b. Anas’s Muwaṭṭaʾ.<cite id="w8aw9"><a href="#zotero%7C167992%2F2QDX8ENH">(Ibn Anas, 1994)</a></cite> (Hadith no: 1645).  Yaḥyā al-Laythī (d. 234/848–9 or 236/850–1, al-Andalus and Medina) was one of the editors of Muwaṭṭaʾ.<cite id="zcd86"><a href="#zotero%7C167992%2FXVZVIRFZ">(Harald Motzki et al., 2011)</a></cite>  Mālik (d. 179/796, Medina) heard this variant from ʿAmr b. Abī ʿAmr (d.136/754, Medina), who was one of the main informants of the Mālik. Similar to the other chains in this cluster, ʿAmr heard it from Anas b. Mālik.
@@ -229,7 +229,7 @@ Variant 11 (V11) was documented in Tirmidhī’s (d. 279/892) Sunan.<cite id="qi
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
-### Textual analysis:
+#### Textual analysis:
 The text of V9 includes a prelude about Anas b. Mālik and how he ended up being a servant of the Prophet. Upon this detail, he narrates how the Prophet sanctified Medina. The short narration begins with a detail that was not seen previously: the element of Mount Uhud. According to the text, the episode of the Prophet’s sanctification of Medina occurred when the Prophet approached Mount Uhud, which is 5 km North of Medina, and uttered a praise for the mount. He then uttered that he sanctified Medina as Abraham sanctified Mecca. After his speech, the Prophet prays for the blessings of God upon the people of Medina. According to the first variant of the ʿAlī b. Abī Ṭālib cluster, this episode took place in al-Suqyā, which is located to the southwest of the city. This could be a sign of a discrepancy or an error.
 
 But who is accountable for introducing this element into the texts? Since the reference to Mount Uhud appears in all three variants within the ʿAmr b. Abī ʿAmr Cluster, there is a possibility that either he or his source, Anas b. Mālik introduced this anecdote into the text. However, technically, it can only be traced back to ʿAmr; therefore, he should be held responsible. The fact that he received mixed evaluations about his reliability in the biographical sources lends further support to this. The rest of the text, however, remains unchanged. These unchanged elements include the comparison between Abraham and Mecca to Muhammad and Medina, the delineation of two lava fields as the sanctified area, and the element of measurement, “O God! Bless (bāraka) the people of Medina in great measure”, included in V9. 
@@ -241,8 +241,8 @@ As observed, the texts of V10 and V11 include the common elements mentioned earl
 <!-- #endregion -->
 
 <!-- #region citation-manager={"citations": {"91t21": [{"id": "167992/9E7TZGQQ", "source": "zotero"}], "ak4yv": [{"id": "167992/DUKWBJJM", "source": "zotero"}], "i2v0q": [{"id": "167992/DUKWBJJM", "source": "zotero"}], "umavm": [{"id": "167992/DUKWBJJM", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
-## The Miscellaneous Variants
-### Isnād analysis
+### The Miscellaneous Variants
+#### Isnād analysis
 As noted above, four variants do not fit into any of the above clusters; therefore, they are to be studied in this section. The Variant 12 (V12) was documented in Muslim’s Ṣaḥīḥ.<cite id="ak4yv"><a href="#zotero%7C167992%2FDUKWBJJM">(Muslim b. al-Ḥajjāj al-Qushayrī, 1991)</a></cite> He heard the variant from Qutayba b. Saʿīd (d. 240/854-5), who also transmitted the first and the ninth variants. Qutayba b. Saʿīd heard it from a number of transmitters up to ʿAbdullāh b. Zayd b. ʿĀṣim, who was a companion of the Prophet from Medina. Although the transmitters in the chain are lesser known, there is a natural connection among them, as all were members of the Māzinī tribe.
 
 Variant 13 (V13) was documented again in Muslim’s Ṣaḥīḥ <cite id="i2v0q"><a href="#zotero%7C167992%2FDUKWBJJM">(Muslim b. al-Ḥajjāj al-Qushayrī, 1991)</a></cite> who reported it from Jābir b. ʿAbdillāh (d. 78/697, Medina), a prominent Companion of the Prophet. Jābir taught at the Mosque of the Prophet until his death at the age of ninety-four. The variant was narrated by Jābir from the Prophet.
@@ -252,7 +252,7 @@ Similar to the previous two variants, Variant 14 (V14) is found in Muslim’s �
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
-### Textual analysis
+#### Textual analysis
 The remaining four texts preserve the continuity of the comparison elements between Abraham’s sanctification of Mecca and Muhammad’s emulation of it in sanctifying Medina with a paraphrased rendition of these elements. The salient features of the paraphrasing, which can be examined in detail in Table 2 above, strongly suggest the likelihood of an oral transmission of these elements.
 
 In addition to these elements, the mention of the “two lava fields” is present in V13 but absent in the remaining three variants. The inclusion of the two lava fields is noted in two variants of the ʿAlī b. Abī Ṭālib Cluster, all variants of the Abū Hurayra Cluster and the ʿAmr b. Abī ʿAmr Cluster. Hence, it is plausible that it was part of the original Hadith. The element of measurement is also included in the V12. This element was previously seen in V1 and V9 and is not present in the remaining variants. We connected this possibility to the transmission of these two variants by Qutayba b. Saʿīd. The existence of the element of measurement in the twelfth variant gives further credibility to this possibility, as he also transmits the twelfth variant. Therefore, it is certain that he interpolated this information into all the variants he transmitted except for the eleventh variant.
@@ -260,7 +260,7 @@ In addition to these elements, the mention of the “two lava fields” is prese
 <!-- #endregion -->
 
 <!-- #region citation-manager={"citations": {"79y85": [{"id": "167992/TM3VTF9V", "source": "zotero"}], "ioa0c": [{"id": "167992/NMT2HJ8V", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
-# AUGMENTING TRADITIONAL COLLATION: SEMANTIC SIMILARITY FOR TEXTUAL ANALYSIS
+## AUGMENTING TRADITIONAL COLLATION: SEMANTIC SIMILARITY FOR TEXTUAL ANALYSIS
 The transition from manual isnād-cum-matn analysis to computational validation is based on a crucial premise; semantic consistency across variant texts suggests the preservation of meaning within the transmission history. If independent transmission lines demonstrate high semantic similarity despite lexical divergence, this convergence strengthens the historical credibility of the shared core narrative. In this sense, LLM analysis does not replace philological reasoning; it quantifies it, thus allowing the traditional method’s interpretive understanding to be tested empirically across a broader textual field.
 
 Analysis of textual variations is a fundamental, yet often tedious and time-consuming, task for scholars working with Hadith and other historical texts. Digital tools, such as CollateX,  have become widely adopted standards for automated lexical alignment. These tools are highly effective for comparing texts with close orthographic or word-for-word correspondence.<cite id="ioa0c"><a href="#zotero%7C167992%2FNMT2HJ8V">(Bordalejo &#38; Vázquez, 2021)</a></cite> 
@@ -272,7 +272,7 @@ In this section, we first briefly present the current standard for automated mul
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
-## The Integrated Workflow: Combining Lexical and Semantic Analysis
+### The Integrated Workflow: Combining Lexical and Semantic Analysis
 Biagini et al.’s work demonstrates that automated lexical alignment, while highly effective at identifying surface-level textual differences, provides limited analytical results when variants lack orthographic similarity. To extend analysis beyond this surface-level comparison, our proposed workflow introduces Semantic Textual Similarity (STS) analysis following initial CollateX alignment. The LLM-based model assesses how closely each text aligns in meaning, identifying where variants converge or diverge conceptually rather than strictly orthographically. This semantic level provides essential context to help scholars distinguish genuinely related traditions from coincidental lexical overlaps or extensive paraphrases that standard collation alone may not clearly categorise. To illustrate this added analytical capacity, let us consider a traditional collation process and how our approach modifies it. We begin by assembling nine texts: four close variants, two distant variants, and three adversarial variants. The final category helps to show the need for semantic verification, as lexical collation struggles to effectively categorise highly divergent passages that nonetheless share conceptual content:
 <!-- #endregion -->
 
@@ -296,7 +296,7 @@ model = SentenceTransformer('intfloat/multilingual-e5-large')
 First it is worth recalling that CollateX aligns witnesses by characters. As such, it has no difficulty aligning texts of any language.
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["table-exCollation-*"]
+```python editable=true jdh={"module": "object", "object": {"source": ["NO TITLE"]}} slideshow={"slide_type": ""} tags=["table-exCollation-*"]
 collation = Collation()
 collation.add_plain_witness("A", "The quick brown fox jumps over the dog")
 collation.add_plain_witness("B", "The brown fox jumps over the lazy dog")
@@ -315,7 +315,7 @@ print("Arabic Table\n", ar_alignment_table)
 Our close, distant, and adversarial transmissions are created as follows: witnesses A, B, C, and D are the core set of texts; witnesses E, F, and G are meant to confuse CollateX and dilute our collation; witnesses H and I are semantically similar texts that character based collation typically struggles with.
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["hermeneutics", "table-engCollation-*"]
+```python editable=true jdh={"module": "object", "object": {"source": ["English Example"]}} slideshow={"slide_type": ""} tags=["hermeneutics", "table-engCollation-*"]
 #@title English Example
 #Close Transmission
 en_collation = Collation()
@@ -408,7 +408,7 @@ Hence, we propose an integrated model that effectively combines the strengths of
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
-## Methodological Background: How Language Models Encode Meaning?
+### Methodological Background: How Language Models Encode Meaning?
 <!-- #endregion -->
 
 <!-- #region citation-manager={"citations": {"3vrd1": [{"id": "167992/99LZUX7J", "source": "zotero"}], "pl8hx": [{"id": "167992/ZRNIKFUI", "source": "zotero"}], "sraa8": [{"id": "167992/HUMCFE4N", "source": "zotero"}], "vrspv": [{"id": "167992/7GWKJ6GM", "source": "zotero"}], "wlp8u": [{"id": "167992/VN9EYQ7L", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
@@ -419,13 +419,13 @@ For our analysis, we will employ Sentence-BERT, a transformer model that produce
 <!-- #endregion -->
 
 <!-- #region citation-manager={"citations": {"zyank": [{"id": "167992/99LZUX7J", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
-### Measuring semantic distance: Cosine similarity explained
+#### Measuring semantic distance: Cosine similarity explained
 The reason we have chosen cosine similarity over other metrics is that it is a standard measure of textual similarity in embedding-based analysis.<cite id="zyank"><a href="#zotero%7C167992%2F99LZUX7J">(Nie et al., 2025)</a></cite> Cosine similarity quantifies the angular distance between two vectors in high-dimensional space, regardless of their magnitude. In practice, this means it measures how similarly two texts are oriented in this “semantic space”. This makes it especially well-suited for comparing mixed textual units (e.g., short phrases vs. full sentences).  Consequently, cosine similarity has emerged as the de facto standard for evaluating sentence embeddings in tasks such as STS, as it combines mathematical rigour with interpretive transparency, which makes it well-suited to humanistic research.
 
 <!-- #endregion -->
 
 <!-- #region citation-manager={"citations": {"0l2ps": [{"id": "167992/XBUBN9YB", "source": "zotero"}], "2etyh": [{"id": "167992/J5LB4B82", "source": "zotero"}], "ey687": [{"id": "167992/7UBWXN9I", "source": "zotero"}], "fnn9x": [{"id": "167992/WQNAPATM", "source": "zotero"}], "n20ou": [{"id": "167992/XBUBN9YB", "source": "zotero"}], "nh2hw": [{"id": "167992/42F7HEVV", "source": "zotero"}], "ulzfr": [{"id": "167992/DWF9N3UN", "source": "zotero"}], "vl30o": [{"id": "167992/XBUBN9YB", "source": "zotero"}], "w7oug": [{"id": "167992/IHEIIWZR", "source": "zotero"}], "yaie5": [{"id": "167992/7LTBFGEP", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
-### Model Selection
+#### Model Selection
 We considered multiple models, the top-performing model from the Massive Text Embedding Benchmark (MTEB) <cite id="ey687"><a href="#zotero%7C167992%2F7UBWXN9I">(Enevoldsen et al., 2025)</a></cite> for STS tasks, but ultimately chose Microsoft’s Multilingual-E5-Large model. <cite id="yaie5"><a href="#zotero%7C167992%2F7LTBFGEP">(Wang et al., 2024)</a></cite> The other models were either paid, <cite id="2etyh"><a href="#zotero%7C167992%2FJ5LB4B82">(Comanici et al., 2025)</a></cite> far too large to easily use for personal computers, <cite id="w7oug"><a href="#zotero%7C167992%2FIHEIIWZR">(Zhang et al., 2025)</a></cite> or not designed for Arabic. <cite id="nh2hw"><a href="#zotero%7C167992%2F42F7HEVV">(Thakur et al., 2021)</a></cite> There is a lack of multilingual studies standards assessing the abilities of LLMs within each given language. <cite id="n20ou"><a href="#zotero%7C167992%2FXBUBN9YB">(Abdelazim et al., 2023)</a></cite> Fortunately, a recent study demonstrated that the base E5  model<cite id="fnn9x"><a href="#zotero%7C167992%2FWQNAPATM">(Wang, Yang, Huang, Jiao, et al., 2024)</a></cite> not only proved effective in embedding Arabic texts, but it “outperformed all other models” in STS tasks. <cite id="vl30o"><a href="#zotero%7C167992%2FXBUBN9YB">(Abdelazim et al., 2023)</a></cite> Moreover, since the release of the analysis of the base E5 model, an open source multilingual version of E5 has been released and has achieved the 8th-best model in STS rankings on the MTEB leaderboard.  Thus, we have chosen this model not only for the family’s proven results on Arabic texts, but also because Multilingual-E5-Large is able to run on average computers easily.
 
 To demonstrate that this model can understand Arabic, we tested how accurately Multilingual-E5-Large can differentiate the meaning of different phrases in Arabic via a standard dataset that the model was not trained on. <cite id="ulzfr"><a href="#zotero%7C167992%2FDWF9N3UN">(Nacar &#38; Koubaa, 2024)</a></cite> This is a Natural Language Inference (NLI) dataset which contains a premise sentence and three hypothesis sentences, each of which either agreed (entailment), disagreed (contradiction), or did not expressly go against or concur with the original sentence (neutral).<cite id="0l2ps"><a href="#zotero%7C167992%2FXBUBN9YB">(Abdelazim et al., 2023)</a></cite>
@@ -490,11 +490,11 @@ Nonetheless, since the model orders the three NLI categories by semantic proximi
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
-### The Semantically Aware Collation Pipeline 
+#### The Semantically Aware Collation Pipeline 
 <!-- #endregion -->
 
 <!-- #region citation-manager={"citations": {"6x6gw": [{"id": "167992/6QISGCPU", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
-#### Data Preparation and Preprocessing
+##### Data Preparation and Preprocessing
 Data preparation is frequently one of the most time-consuming aspects of digital analysis projects of this kind. That is why we aimed to automate as much of the preprocessing as possible. We have created a publicly available notebook that can accept a list of Arabic texts and will remove all non-Arabic characters, as well as numbers, punctuation, and vowel markings:
 
 ٱلسَّلَامُ عَلَيْكُمْ	→	السلام عليكم
@@ -503,10 +503,10 @@ After cleaning the text, we pattern-matched and removed all honorifics, such as 
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
-#### Traditional Collation Baseline
+##### Traditional Collation Baseline
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["table-inputdf-*"]
+```python editable=true jdh={"module": "object", "object": {"source": ["Original Hadiths as a Dataframe"]}} slideshow={"slide_type": ""} tags=["table-inputdf-*"]
 #@title original hadiths as a dataframe
 #this can be freely edited or replaced with any csv file
 
@@ -536,7 +536,7 @@ variant,full hadith
 input_df.head()
 ```
 
-```python editable=true slideshow={"slide_type": ""} tags=["hermeneutics", "table-collationdf-*"]
+```python editable=true jdh={"module": "object", "object": {"source": ["Collation DataFrame"]}} slideshow={"slide_type": ""} tags=["hermeneutics", "table-collationdf-*"]
 #convert texts to collation
 collation_df = input_df_to_collation_df(input_df)
 collation_df.head()
@@ -561,7 +561,7 @@ To better understand our scoring, here are 10 entries from each level of analysi
 Micro-semantic similarity refers to our word-level analysis. We calculated the internal score of each “token” column in Figure 9.1 by comparing each word, or aligned group of words, with one another. This metric is how we assess the coherence of the collation itself through average, minimum, and maximum similarity scores.
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["hermeneutics", "table-microSim-*"]
+```python editable=true jdh={"module": "object", "object": {"source": ["Micro-Semantic Similarity"]}} slideshow={"slide_type": ""} tags=["hermeneutics", "table-microSim-*"]
 from script.supporting_code import micro_semantic_similarity
 micro_df, _ = micro_semantic_similarity(collation_df, model, return_pairwise=True)
 
@@ -569,12 +569,12 @@ micro_df.head(10)
 ```
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
-##### Meso-Semantic Similarity
+###### Meso-Semantic Similarity
 
 Meso-semantic scores capture phrase-level relationships. This metric aimed to determine whether adjacent collated words formed coherent phrases across variants. We defined a three-word sliding window for each phrase, aligning two texts side by side. For every phrase in Variant A, all possible corresponding phrases in Variant B were compared, skipping gaps, and their cosine similarities were calculated. The highest-scoring phrase pair was then selected and linked. This procedure was repeated for all variant pairs. The expectation was that this approach would identify instances of rephrasing while, by design, yielding slightly optimistic similarity estimates. The chosen window size was determined through iterative testing.
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["hermeneutics", "table-mesoSim-*"]
+```python editable=true jdh={"module": "object", "object": {"source": ["Meso-Semantic Similarity"]}} slideshow={"slide_type": ""} tags=["hermeneutics", "table-mesoSim-*"]
 from script.supporting_code import meso_semantic_similarity
 meso_df, _ = meso_semantic_similarity(collation_df, model)
 
@@ -582,12 +582,12 @@ meso_df.head(10)
 ```
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
-##### Macro-Semantic Similarity
+###### Macro-Semantic Similarity
 
 Lastly, macro-semantic similarity refers to the cosine similarity of the full texts themselves. We concatenated all the texts to recreate the variants prior to collation and then computed the full semantic textual similarities. We have found these scores to be most reliable 
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["hermeneutics", "table-macroSim-*"]
+```python editable=true jdh={"module": "object", "object": {"source": ["Macro-Semantic Similarity"]}} slideshow={"slide_type": ""} tags=["hermeneutics", "table-macroSim-*"]
 from script.supporting_code import macro_semantic_similarity
 macro_df = macro_semantic_similarity(collation_df, model)
 
@@ -595,36 +595,26 @@ macro_df.head(10)
 ```
 
 <!-- #region citation-manager={"citations": {"et1qb": [{"id": "167992/HUMCFE4N", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
-#### Similarity normalisation
+##### Similarity normalisation
 Since the cosine similarity scores generated by the embedding model were naturally compressed within a narrow range (approximately 0.7–1.0), we applied a linear rescaling to normalise them to the interval [0, 1]. This transformation, which preserves the relative distances among data points, was adopted to improve interpretability and enable consistent comparison across variants. <cite id="et1qb"><a href="#zotero%7C167992%2FHUMCFE4N">(Reimers &#38; Gurevych, 2019)</a></cite> Scores below 0.7 were clipped to 0, and values marginally exceeding 1.0 were capped at 1.0. The transformation is defined as follows:
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["hermeneutics", "figure-formula-*"]
-from IPython.display import Image, display
-metadata={
-    "jdh": {
-        "module": "object",
-        "object": {
-            "type":"image",
-            "source": [
-                "latex math formula"
-            ]
-        }
-    }
-}
-display(Image("media/number1.png", width=400), metadata=metadata)
-```
+<!-- #region tags=["hermeneutics"] -->
+$$
+s_{\text{norm}} = \frac{s - 0.7}{1.0 - 0.7}
+$$
+<!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 _Where “s” is the raw cosine similarity and “s norm” is the normalised score._
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
-### Results: Semantic Patterns in Hadith Transmission
-#### Overall Semantic-Structural Landscape
+#### Results: Semantic Patterns in Hadith Transmission
+##### Overall Semantic-Structural Landscape
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["figure-simHistogram-*"]
+```python jdh={"module": "object", "object": {"source": ["Similarity Comparison Across Analysis Levels shows how granularity affects textual relationships"], "type": "image"}} editable=true slideshow={"slide_type": ""} tags=["figure-simHistogram-*"]
 _ = plot_similarity_levels_comparison(ar_results)
 ```
 
@@ -638,10 +628,10 @@ In essence, our computational analysis validates the perception long held by sch
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
-##### Semantic-Structural Discrepencies - Gaps in Our Collation
+###### Semantic-Structural Discrepencies - Gaps in Our Collation
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["table-gapFreqTable-*", "figure-gapFreqPlot-*"]
+```python editable=true jdh={"module": "object", "object": {"source": ["NO TABLE TITLE/ FIGURE TITLE: Collation vs Micro Semantic Similiarity How well does CollateX group tokens by meaning? "]}} slideshow={"slide_type": ""} tags=["table-gapFreqTable-*", "figure-gapFreqPlot-*"]
 gap_freq_df = plot_gap_freq_significance_scatter(ar_results, label_all=False, label_top=False).sort_values(by=["gap_freq"], ascending=False)
 gap_freq_df.head(10)
 ```
@@ -656,20 +646,20 @@ Now, let us swap our lens and look at these collations from within. We measure t
 For instance, when there is full textual agreement between the entries, both scores rank their similarity at 100, such as the nine columns clustered in the top right of the graph. However, in cases such as columns 8 and 9, where a mix of texts are collated, the Jaro-Winkler score is as much as 22 percentage points more confident than our LLM. For cases where we want to be sceptical of our texts, there is strong preference in using an LLM to measure textual similarity. Furthermore, we have limited our LLM by excluding context and comparing individual words and phrases. Including more nuanced text selections will further sperate gap between STS and Jaro-Winkler. Through this comparision, there is a strong argument to create our collation itself through STS so that we are able to group like phrases, and we never lose the ability to measure textual difference through letter based approaches as well.
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["table-jaroWinkTable-*", "figure-jaroWinkPlot-*"]
+```python editable=true jdh={"module": "object", "object": {"source": ["NO TABLE TITLE/ FIGURE TITLE: CoolateX Text Similiarity vs Micro Semantic Similiarity How similar are CollateX groupings across Letters and meaning? "]}} slideshow={"slide_type": ""} tags=["table-jaroWinkTable-*", "figure-jaroWinkPlot-*"]
 jaro_winkler_df = plot_jaro_winkler_significance_scatter(ar_results, label_all=False, label_top=False).sort_values(by=["struct_score"], ascending=True)
 jaro_winkler_df.head(10)
 ```
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
-##### Semantic-Structural Discrepencies - Our Texts from a Birds Eye View
+###### Semantic-Structural Discrepencies - Our Texts from a Birds Eye View
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["figure-arSTSMatrix-*"]
+```python jdh={"module": "object", "object": {"source": ["Semantic Similarity Matrix (Full Text STS from LLM)"], "type": "image"}} editable=true slideshow={"slide_type": ""} tags=["figure-arSTSMatrix-*"]
 _ = plot_witness_similarity_matrix(ar_results)
 ```
 
-```python editable=true slideshow={"slide_type": ""} tags=["figure-arStructMatrix-*"]
+```python jdh={"module": "object", "object": {"source": ["Structural Agreement Matrix (Token Identity from Collation)"], "type": "image"}} editable=true slideshow={"slide_type": ""} tags=["figure-arStructMatrix-*"]
 #Table 9.4
 plot_structural_similarity_heatmap(ar_results)
 ```
@@ -678,7 +668,7 @@ plot_structural_similarity_heatmap(ar_results)
  For a better comparison, we can translate these heatmaps to a dendrogram below:
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["figure-dendrograms-*"]
+```python editable=true jdh={"module": "object", "object": {"source": ["Witness Clustering based on Macro-Semantic Similarity Lower branches= closer semnatically/ Witness Clustering by Structural Alignement Lower branches = closer collation"], "type": "image"}} slideshow={"slide_type": ""} tags=["figure-dendrograms-*"]
 _ = plot_semantic_clustering_dendrogram(ar_results, threshold=0.5)
 _ = plot_structural_dendrogram(ar_results, collation_df, threshold=0.5)
 ```
@@ -688,13 +678,13 @@ We can already observe clear patterns in the results. Pairs such as V2–V3, V5�
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
-#### Semantic Dendrogram:
+##### Semantic Dendrogram:
 If we recall <table-isnadtree-*></table-isnadtree-*>, we can see that our semantic tree rather closely reflects how one might group these variants if we focused on the identified narrative beats of the story. V4, V5, V6 mention ʿAlī and Kufa, and they are grouped together here. V10 and V11 are exact matches and thus have the highest semantic confidence score. V2, V3, and V13 are the only texts to mention that it is forbidden to cut down a tree, and they are grouped here. In this sense, we have reconstructed the thematic groupings of the Hadith, just through an unrefined model. 
 
 Furthermore, if we compare with the clusters as identified with isnād-cum-matn analysis, we see our most confident pairs (V5 and V6, V10 and V11, V14 and V15) are all grouped by cluster. In this manner, we were able to approximate chains of transmission solely via textual comparison. However, our most interesting data are the variants that became associated across clusters: 
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["table-isnadtreeAbbr-*"]
+```python editable=true slideshow={"slide_type": ""} tags=["figure-isnadtreeAbbr-*"]
 from IPython.display import Image, display
 metadata={
     "jdh": {
@@ -711,12 +701,12 @@ display(Image("media/Picture 9.7.png"), metadata=metadata)
 ```
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
-### 6. Case Studies: 
-#### Case Study 1: 
+#### 6. Case Studies: 
+##### Case Study 1: 
 We first examine the most confident pairs: V2–V3, V5–V6, V10–V11, and V14–V15. Each demonstrates near-identical wording, which explains their strong alignment. The collation process also linked these pairs at the word level, though minor rephrasing introduced slight uncertainty. The AI-generated graph, however, consistently grouped these texts together, which confirms their close similarity. These pairs thus function as important sanity checks and reinforce the reliability of the model. More interesting, however, is the model’s unexpected association of V4 with the almost identical pair V5–V6; traditional collation entirely failed to detect this link.Case Study 2: 
 <!-- #endregion -->
 
-#### Case Study 2:
+##### Case Study 2:
 
 ```python editable=true slideshow={"slide_type": ""} tags=["table-v456Arabic-*"]
 from IPython.display import Image 
@@ -738,7 +728,7 @@ display(Image("media/Text1.png"), metadata=metadata)
 These three traditions form half of the ʿAlī Ibn Abī Ṭālib cluster. We can see that V5 and V6 have nearly identical wording, while V4 is worded quite differently. All the variants mention ʿAlī and the city of Kufa, but V5 and V6 refer to ʿAlī by his title “Amīr al-Mu’minīn”, while V4 refers to him by his name. Furthermore, of the 15 total traditions, these are the only variants that mention ʿAlī or Kufa. Lastly, V4 has a completely different wording for the event. This distinction helps explain why CollateX did not detect their similarity and why our semantic scores lack confidence in the grouping. Yet, our semantic model did still correctly group these three texts.
 <!-- #endregion -->
 
-#### Case Study 3:
+##### Case Study 3:
 
 ```python editable=true slideshow={"slide_type": ""} tags=["table-v19Arabic-*"]
 from IPython.display import Image 
@@ -798,7 +788,7 @@ metadata={
 display(Image("media/Picture 10.3.png"), metadata=metadata)
 ```
 
-### Discussion: Methodological Implications
+#### Discussion: Methodological Implications
 The methodology presented in this article, developed specifically for the analysis of the Hadith corpus, is broadly applicable to any textual tradition characterised by close intertextuality and significant semantic variation. This method is particularly well-suited to domains involving families of short, related texts that differ subtly in wording, emphasis, or syntactic structure—a common feature of orally transmitted religious and historical materials. In such contexts, semantic analysis moves beyond surface-level alignment to reveal underlying patterns of conceptual continuity that purely lexical collation might otherwise mask. By quantifying semantic similarity alongside structural completeness, our model enables scholars to identify not only where texts diverge orthographically but also where they diverge in conceptual content.
 Despite its promise, the approach must contend with the challenges inherent in applying modern computational tools to ancient linguistic data. The underlying language model used here was not specifically fine-tuned on classical Arabic, which introduces a degree of semantic imprecision into the similarity estimates. This poses a wider challenge due to the uneven availability of specialised language models for classical languages. Although Modern Standard Arabic benefits from extensive contemporary resources, its linguistic distance from classical and Quranic Arabic remains a source of potential bias. The dominance of Modern Standard Arabic syntactic and semantic patterns can inadvertently distort the embeddings of older constructs, potentially leading to misrepresentations of meaning.
 
