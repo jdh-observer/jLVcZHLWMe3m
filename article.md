@@ -1,11 +1,12 @@
 ---
 jupyter:
   jupytext:
+    formats: ipynb,md
     text_representation:
       extension: .md
       format_name: markdown
       format_version: '1.3'
-      jupytext_version: 1.19.3
+      jupytext_version: 1.19.4
   kernelspec:
     display_name: Python 3 (ipykernel)
     language: python
@@ -802,7 +803,7 @@ Our model thus provides a replicable basis for studying textual transmission in 
 
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hidden"] -->
+<!-- #region editable=true slideshow={"slide_type": ""} -->
 ## Bibliography
 <!-- BIBLIOGRAPHY START -->
 <div class="csl-bib-body">
