@@ -803,7 +803,7 @@ Our model thus provides a replicable basis for studying textual transmission in 
 
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} -->
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hidden"]-->
 ## Bibliography
 <!-- BIBLIOGRAPHY START -->
 <div class="csl-bib-body">
